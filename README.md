@@ -59,7 +59,4 @@ The Jupyter Notebook (`7-th assignment(Shopping_trends).ipynb`) explores the und
 2.  **Geographic Targeting:** Focus marketing efforts on the **North Region** to capitalize on its high conversion rate.
 3.  **Loyalty Growth:** Use the "Subscription Status" insights to create a targeted email campaign for non-subscribers who shop frequently.
 
----
-**Would you like me to show you how to link a specific chart from your notebook into this README?**
-
 ```
