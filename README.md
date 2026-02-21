@@ -1,6 +1,6 @@
 # 🛍️ Customer Shopping Trends & Sales Analytics
 
-<img width="534" height="534" alt="Picture0" src="https://github.com/user-attachments/assets/89950fcd-18d7-45ba-afce-a7a1fcdd66e3" />
+<img width="900" height="900" alt="Picture0" src="https://github.com/user-attachments/assets/89950fcd-18d7-45ba-afce-a7a1fcdd66e3" />
 
 
 ## 📖 Project Overview
